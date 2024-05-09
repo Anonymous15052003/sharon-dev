@@ -2,13 +2,13 @@
 
 Welcome to my portfolio website! This is where I showcase my skills, projects, and achievements. Feel free to explore and learn more about my work.
 
-![Portfolio Screenshot](pic1.jpg)
+![Portfolio Screenshot](pic1.png)
 
 ## About Me
 I'm CS prodigy adept in DBMS, Python, ML. Hackathon enthusiast with stellar academic record and meticulous data analysis skills.
 
-![Portfolio Screenshot](pic2.jpg)
-![Portfolio Screenshot](pic3.jpg)
+![Portfolio Screenshot](pic2.png)
+![Portfolio Screenshot](pic3.png)
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-![Portfolio Screenshot](pic5.jpg)
+![Portfolio Screenshot](pic5.png)
 
 Check out the [https://github.com/Anonymous15052003](#) repository section on my github profile for more details on each project.
 
@@ -45,7 +45,7 @@ If you'd like to get in touch or collaborate on a project, you can reach me thro
 - Email: sharon.developer07@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharon-chattopadhyay/
 
-![Portfolio Screenshot](pic6.jpg)
+![Portfolio Screenshot](pic6.png)
 
 ---
 
